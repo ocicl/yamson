@@ -1,0 +1,9 @@
+* yamson
+
+A fast and complete YAML 1.2 parser for Common Lisp.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/bohonghuang/yamson.git |
+| commit  | 0000000                                        |
+| systems | yamson yamson.base yamson.json yamson.yaml      |
+|---------+------------------------------------------------|
