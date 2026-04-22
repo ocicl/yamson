@@ -4,7 +4,7 @@ A fast and complete YAML 1.2 parser for Common Lisp.
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/bohonghuang/yamson.git |
-| commit  | 8f2d45e                                       |
+| commit  | 3c0508c                                       |
 | systems | yamson yamson.base yamson.json yamson.yaml    |
 |---------+-----------------------------------------------|
 ---|
